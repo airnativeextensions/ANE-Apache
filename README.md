@@ -1,4 +1,4 @@
-built by [distriqt //](https://airnativeextensions.com) 
+built by distriqt //
 
 ![](images/promo.png)
 
